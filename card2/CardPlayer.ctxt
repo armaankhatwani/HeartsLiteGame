@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=CardPlayer
+comment1.params=name\ score\ hand
+comment1.target=CardPlayer(java.lang.String,\ int,\ java.util.ArrayList)
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=java.util.ArrayList\ getHand()
+comment3.params=hand
+comment3.target=void\ setHand(java.util.ArrayList)
+comment4.params=card
+comment4.target=void\ addCard(Card)
+comment5.params=index
+comment5.target=Card\ playCard(int)
+comment6.params=roundCards\ gameCards
+comment6.target=Card\ chooseCard(java.util.ArrayList,\ java.util.ArrayList)
+comment7.params=
+comment7.target=Card\ playRandomCard()
+comment8.params=suit
+comment8.target=Card\ playRandomCardOfSuit(java.lang.String)
+comment9.params=
+comment9.target=Card\ playRandomHeart()
+numComments=11

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CardPlayerLevel1
+comment1.params=name\ score\ hand
+comment1.target=CardPlayerLevel1(java.lang.String,\ int,\ java.util.ArrayList)
+comment2.params=roundCards\ gameCards
+comment2.target=Card\ chooseCard(java.util.ArrayList,\ java.util.ArrayList)
+comment3.params=
+comment3.target=Card\ playHighestHeart()
+numComments=4

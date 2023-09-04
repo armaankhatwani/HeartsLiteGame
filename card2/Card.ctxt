@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Card
+comment1.params=
+comment1.target=Card()
+comment10.params=card
+comment10.target=int\ compareTo(Card)
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=n\ s\ r
+comment2.target=Card(java.lang.String,\ java.lang.String,\ int)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=java.lang.String\ getSuit()
+comment5.params=
+comment5.target=int\ getRank()
+comment6.params=n
+comment6.target=void\ setName(java.lang.String)
+comment7.params=s
+comment7.target=void\ setSuit(java.lang.String)
+comment8.params=r
+comment8.target=void\ setRank(int)
+comment9.params=card
+comment9.target=boolean\ equals(Card)
+numComments=12
